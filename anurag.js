@@ -8,7 +8,7 @@ food.addEventListener("click",function(){
 
 
 
-let groc=document.querySelector("grocery");
+let groc=document.querySelector(".grocery");
 
 groc.addEventListener("click",function(){
     // alert("clik")
