@@ -1,0 +1,269 @@
+*{
+    margin:0;
+}
+.h_main{
+    height: 80px;
+    background-color:#ad3636;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+
+}
+
+header{
+    position: sticky;
+    top: 0;
+}
+
+
+.m_main{
+    background-color:#708090;
+    height: 750px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-image:url(https://assets-global.website-files.com/61017e6b22c7fa6cb9edc36a/6110f2998a1a3490b1db06a0_60fab4b9871de8613617dbbf_choose-online-shopping-cart.jpeg);
+    background-size: cover;
+    width: 100%;
+    
+   
+   
+    
+}
+
+.f_main{
+    width: auto;
+    height: 350px;
+    background-color:black;
+}
+
+/* header main section */
+
+.logo{
+    height: 60px;
+    width: 60px;
+    background-color: yellow;
+    margin-left: -400px;
+}
+.signup{
+    height:55px;
+    width: 55px;
+    background-color: rgba(224, 203, 128, 0.999);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: -450px;
+    
+}
+.signup:hover{
+    transform:scale(1.05);
+}
+.sizing{
+    border-radius: 50%;
+}
+.fa-solid fa-user-plus{
+    height: 55px;
+    width: 55px;
+}
+
+.signin{
+    height:55px;
+    width: 55px;
+    background-color:rgba(224, 203, 128, 0.999);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: -450px;
+    
+}
+
+.signin:hover{
+    transform:scale(1.05);
+}
+.nlogo{
+    height: 60px;
+    width: 390px;
+    background-color: #ad3636;
+    margin-left: -350px;
+    border-radius: 50%;
+
+}
+
+.nlogo>h1{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+}
+
+/* main content section */
+
+
+.desc{
+    color: aqua;
+    font-size: 50px;
+    width: 700px;
+}
+
+.wle{
+    color: rgb(109, 54, 54);
+    text-align: center;
+    margin-top: 0;
+    font-size: 60px;
+    font-weight: 900;
+}
+
+
+.descr{
+    margin-top: 0;
+    width: 900px;
+    height:500px;
+}
+.para{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    color: rgba(11, 6, 6, 0.934);
+}
+
+
+/* footer style */
+
+
+
+.footer{
+    display: flex;
+    /* flex: 1; */
+    flex-wrap: wrap;
+
+}
+
+        /* AHCS */
+
+
+.ahcs{
+    color: white;
+    display: flex;
+    width: 850px;
+    height: 300px;
+    
+
+}
+
+
+.about{
+    
+    background-color: rgba(21, 20, 20, 0.979);
+    height: 300px;
+    width:212.5px;
+    text-align: center;
+}
+
+.pa{
+    display:none;
+}
+
+.help{
+  
+    height: 300px;
+    width:212.5px;
+    background-color: rgba(21, 20, 20, 0.979);
+    text-align: center;
+}
+
+.consumer_policy{
+    
+    height: 300px;
+    width:212.5px;
+    background-color: rgba(21, 20, 20, 0.979);
+    text-align: center;
+}
+
+
+.social{
+   
+    height: 300px;
+    width:212.5px;
+    background-color: rgba(21, 20, 20, 0.979);
+    text-align: center;
+}
+
+.in_about_opt{
+    color: rgba(238, 231, 231,0.5);
+    display: block;
+    text-decoration: none;
+    line-height: 2.4;
+}
+
+
+.in_help_opt{
+    color: rgba(238, 231, 231,0.5);
+    display: block;
+    text-decoration: none;
+    line-height: 2.4;
+}
+
+
+.in_consumer_policy_opt{
+    color: rgba(238, 231, 231,0.5);
+    display: block;
+    text-decoration: none;
+    line-height: 2.4;
+}
+
+.in_social_opt{
+    color: rgba(238, 231, 231,0.5);
+    display: block;
+    text-decoration: none;
+    line-height: 2.4;
+}
+.same_achs{
+    padding-top: 10px;
+}
+
+
+        /* MR */
+
+
+.mr{
+    display: flex;
+    width:620px;
+    height:300px;
+    
+}
+
+.mail_us{
+    color: white;
+    width: 310px;
+    height: 300px;
+    background-color: rgba(21, 20, 20, 0.979);
+    text-align: center;
+}
+
+.reg_office{
+    color: white;
+    width: 310px;
+    height: 300px;
+    background-color:rgba(21, 20, 20, 0.979);
+    text-align: center;
+}
+
+        /* Other Option */
+.othoption{
+    height: 50px;
+    width: 1470px;
+    background-color: rgba(21, 20, 20, 0.979);
+    color:rgba(255,255,255,0.5) ;
+    text-align: center;
+    padding-top:10px ;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+.login_pge{
+    display: center;
+    height:550px;
+    width: 550px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.page{
+    height: 20px;
+    width: 450px;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+
+}
+.for_cent{
+    margin-left: 40%;
+    font-size: x-large;
+
+}
+.height{
+    height: 25px;
+    width:200px;
+    text-align: center;
+}
+#login{
+    height: 40px;
+    width: 300px;
+}
