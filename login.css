@@ -2,7 +2,7 @@
     display: center;
     height:550px;
     width: 550px;
-    background-color: green;
+    background-color: rgb(149, 232, 138);
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -30,4 +30,10 @@
 #login{
     height: 40px;
     width: 300px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(247, 97, 97)
 }

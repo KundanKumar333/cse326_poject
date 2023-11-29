@@ -1,0 +1,10 @@
+.all p{
+    text-align: center;
+}
+html{
+    background-image: url("cloth.jpeg");
+    background-size: cover;
+}
+body{
+    margin-left: 40%;
+}

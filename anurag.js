@@ -14,3 +14,14 @@ groc.addEventListener("click",function(){
     // alert("clik")
     window.location.assign("nikhlesh1.html")
 })
+
+
+
+
+
+let cloth=document.querySelector(".clothes");
+
+cloth.addEventListener("click",function(){
+    // alert("clik")
+    window.location.assign("nikhlesh_cl.html")
+})
