@@ -45,6 +45,13 @@ header{
     width: 60px;
     background-color: yellow;
     margin-left: -400px;
+    border-radius: 50%;
+}
+
+
+.img_logo{
+    border-radius: 50%;
+    background-color: bisque;
 }
 .signup{
     height:55px;
