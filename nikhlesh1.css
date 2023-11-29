@@ -1,0 +1,16 @@
+ul{
+    margin-left: 10px;
+}
+.all{
+    margin-left: 15px;
+}
+.all h1{
+    text-align: center;
+}
+.all p{
+    text-align: center;
+}
+html{
+    background-image: url("groc.jpeg");
+    background-size: cover;
+}
