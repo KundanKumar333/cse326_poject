@@ -1,4 +1,4 @@
-.title{
+/* .title{
     text-align: center;
     font-weight: bolder;
     font-size: 18px;
@@ -31,4 +31,55 @@
 .location{
     list-style-type:disc;
     
+} */
+
+
+
+
+
+
+
+
+
+
+html{
+    background-image: url("images/img2.jpg");
+    background-size: cover;
+}
+.title{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 18px;
+}
+.veg-word{
+    color:green;
+    font-weight: bold;
+    background-color: orange;
+    padding: 10px 20px 10px 20px;
+    border-radius: 20px;
+    border:none;
+    margin-bottom: 10px;
+}
+
+.nonveg-word{
+    color:red;
+    font-weight: bold;
+    background-color: orange;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius: 20px;
+    border:none;
+    margin-bottom: 10px;
+}
+.changing-dots{
+    list-style-type:square;
+}
+.location{
+    list-style-type:square;
+    padding: 5px 5px 5px 20px;   
+}
+hr{
+    width: 3px;
 }
