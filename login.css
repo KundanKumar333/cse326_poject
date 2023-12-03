@@ -2,11 +2,21 @@
     display: center;
     height:550px;
     width: 550px;
-    background-color: rgb(149, 232, 138);
+    background-image: url(login.jpeg);
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     align-items: center;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin-top: 125px;
+}
+
+.login_pge:hover{
+    background-color: black;
+    color: white;
+    transform: scale(1.1);
+    
 }
 
 .page{
@@ -15,7 +25,11 @@
     display: flex;
     justify-content: center;
     margin-top: 40px;
+    color: blanchedalmond;
 
+}
+.page:hover{
+    color: white;
 }
 .for_cent{
     margin-left: 40%;
@@ -26,6 +40,8 @@
     height: 25px;
     width:200px;
     text-align: center;
+    background-color: black;
+    color: white;
 }
 #login{
     height: 40px;
@@ -35,5 +51,15 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(247, 97, 97)
+    background-color: black;
+}
+.btn{
+    background-color: black;
+    color: white;
+}
+.btn:hover{
+    transform:scale(1.05);
+    box-shadow: 3px 3px black;
+    background-color:rgb(45, 44, 44) ;
+    color: black;
 }
